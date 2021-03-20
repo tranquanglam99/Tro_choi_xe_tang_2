@@ -60,7 +60,4 @@ document.addEventListener("keydown", key => {
         }
     }
 
-
-    console.log(valueTop);
-    console.log(valueLeft);
 })
